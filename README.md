@@ -1,5 +1,3 @@
-# simple-todo-list
-
 # Simple To-Do List
 
 A simple open-source To-Do List application
